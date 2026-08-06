@@ -23,7 +23,8 @@ class Solution
     }
 }
 
-/*
+/*      
+-------------------------------------Method 2 using recursion---------------------------------------------- 
     class Solution
     {
         int product = 1;
